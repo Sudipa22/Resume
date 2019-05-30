@@ -1,7 +1,7 @@
-<p style="margin-left: 25.0pt; line-height: 28.2pt;"><strong><span style="font-size: 25.0pt;">Sudipa Behera</span></strong></p>
-<h1 style="margin: 5.75pt 0in .0001pt 25.0pt;">+919078824194</h1>
-<p style="margin: .85pt 0in .0001pt 25.0pt;"><a href="mailto:sudipabehera@outlook.com"><strong><span style="font-size: 12.0pt; color: windowtext; text-decoration: none; text-underline: none;">sudipabehera@outlook.com</span></strong></a></p>
-<p style="text-align: center; margin: 4.2pt 133.4pt .0001pt 56.85pt;"><br /><strong><span style="font-size: 12.0pt; color: #2d74b5;">OBJECTIVE</span></strong></p>
+<p style="margin-left: 25.0pt; line-height: 28.2pt;"><strong><span style="font-size: 40.0pt;">Sudipa Behera</span></strong></p>
+<h4 style="margin: 5.75pt 0in .0001pt 25.0pt;">+919078824194</h4>
+<p style="margin: .85pt 0in .0001pt 25.0pt;"><a href="mailto:sudipabehera@outlook.com"><strong><span style="font-size: 20.0pt; color: windowtext; text-decoration: none; text-underline: none;">sudipabehera@outlook.com</span></strong></a></p>
+<p style="text-align: center; margin: 4.2pt 133.4pt .0001pt 197.85pt;"><br /><strong><span style="font-size: 12.0pt; color: #2d74b5;">OBJECTIVE</span></strong></p>
 <hr />
 <p style="margin-top: .15pt;"><strong><span style="font-size: 10.5pt;">&nbsp;</span></strong></p>
 <p style="text-align: justify; line-height: 130%; margin: 2.75pt 123.85pt .0001pt 25.0pt;">A dedicated, determined and knowledgeable computer science engineer looking for an opportunity in the field of computer science in a professional organization to explore my strength and potential.</p>
