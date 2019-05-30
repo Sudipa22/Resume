@@ -13,11 +13,11 @@
 <p style="line-height: 105%; margin: .9pt 226.25pt .0001pt 25.0pt;">Silicon Institute of Technology, Bhubaneswar, Odisha BPUT University Board</p>
 <p style="line-height: 103%; margin: 0in 343.15pt .0001pt 25.0pt;">2015-2019</p>
 <p style="line-height: 103%; margin: 0in 343.15pt .0001pt 25.0pt;">CGPA:8.34</p>
-<h1 style="margin: 8.4pt 0in .0001pt 25.0pt;">12th</h1>
+<h3 style="margin: 8.4pt 0in .0001pt 25.0pt;">12th</h3>
 <p style="line-height: 105%; margin: .8pt 343.15pt .0001pt 25.0pt;">DAV Public School, Talcher, Odisha CBSE</p>
 <p style="margin: .05pt 0in .0001pt 25.0pt;">Graduated 2015</p>
 <p style="margin: .85pt 0in .0001pt 25.0pt;">Percentage: 83.6%</p>
-<h1 style="margin: 8.85pt 0in .0001pt 25.0pt;">10th</h1>
+<h3 style="margin: 8.85pt 0in .0001pt 25.0pt;">10th</h3>
 <p style="line-height: 105%; margin: .85pt 287.25pt .0001pt 25.0pt;">Amarvani Convent School, Angul, Odisha ISCE</p>
 <p style="margin: .05pt 0in .0001pt 25.0pt;">Graduated 2013</p>
 <p style="margin: .85pt 0in .0001pt 25.0pt;">Percentage: 81.6%</p>
