@@ -43,17 +43,17 @@
 <hr />
 <p><strong>&nbsp;</strong></p>
 <p style="margin-top: .4pt;"><strong><span style="font-size: 15.0pt;">&nbsp;</span></strong></p>
-<p style="margin-left: 6.0pt;"><strong><span style="font-size: 12.0pt;">Online Examination System</span></strong></p>
+<p style="margin-left: 6.0pt;"><strong><span style="font-size: 8.0pt;">Online Examination System</span></strong></p>
 <p style="margin: 8.85pt 0in .0001pt 6.0pt;">OCTOBER 2017 &ndash; NOVEMBER 2017</p>
 <p style="line-height: 105%; margin: .85pt 61.6pt .0001pt 6.0pt;">An online examination system using JAVA at back-end and JS, Bootstrap etc. on the front. The project made as a part of semester curriculum.</p>
-<h1 style="margin-top: 8.1pt;">Tweet Classification</h1>
+<p style="margin-left: 6.0pt;"><strong><span style="font-size: 8.0pt;">Tweet Classification</span></strong></p>
 <p style="margin: 8.85pt 0in .0001pt 6.0pt;">MARCH 2017 &ndash; APRIL 2017</p>
 <p style="line-height: 105%; margin: .85pt 0in .0001pt 6.0pt;">A classifier that collects data from twitter and then classifies them into various predefined classes of tweets. Used methods: Na&iuml;ve Bayes and SVM The project made as a part of semester curriculum.</p>
-<h1 style="margin-top: 8.0pt;">Website Development</h1>
+<p style="margin-left: 6.0pt;"><strong><span style="font-size: 8.0pt;">Website Development</span></strong></p>
 <p style="margin: 8.85pt 0in .0001pt 6.0pt;">FEBRUARY 2018 &ndash; MARCH 2018</p>
 <p style="margin: .85pt 0in .0001pt 6.0pt;">A website that is developed using HTML, CSS and JavaScript.</p>
 <p style="margin-top: .55pt;"><span style="font-size: 13.0pt;">&nbsp;</span></p>
-<h1>Detection of age of a person using handwriting analysis</h1>
+<p style="margin-left: 6.0pt;"><strong><span style="font-size: 8.0pt;">Detection of age of a person using handwriting analysis</span></strong></p>
 <p style="margin: 6.85pt 0in .0001pt 6.0pt;">JULY 2018 &ndash; ONGOING</p>
 <p style="line-height: 105%; margin: .95pt 0in .0001pt 6.0pt;">A system that detects the age of a person by recognizing the handwriting. Used methods: Pre-processing and neural network based recognizing task to identify the handwriting of the individual.</p>
 <p><span style="font-size: 10.0pt;">&nbsp;</span></p>
